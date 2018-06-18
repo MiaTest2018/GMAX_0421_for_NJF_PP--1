@@ -1,5 +1,5 @@
 /*
-||
+||add new line
 || @file Key.h
 || @version 1.0
 || @author Mark Stanley
